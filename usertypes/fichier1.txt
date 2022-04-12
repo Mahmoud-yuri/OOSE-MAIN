@@ -1,0 +1,7 @@
+Viewer : Read (same permissions as Reviewer) : 49494946
+
+
+
+Editor : Read/write (same permissions as Manager) : 34234422
+Internal users : As all internal users have basic permissions, this feature applies only to Editor Permissions : 35650000
+External users : In Basic mode, this feature applies to both Editor and Viewer : 35650066
