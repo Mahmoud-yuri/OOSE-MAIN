@@ -1,4 +1,4 @@
-/*! normalize.css 2012-07-07T09:50 UTC - http://github.com/necolas/normalize.css */
+
 
 /* ==========================================================================
    HTML5 display definitions
@@ -105,7 +105,7 @@ a:focus {
 
 /*
  * Improves readability when focused and also mouse hovered in all browsers.
- * people.opera.com/patrickl/experiments/keyboard/test
+ 
  */
 
 a:active,
@@ -201,7 +201,7 @@ pre {
 
 /*
  * Corrects font family set oddly in IE6, S4/5, Chrome.
- * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+
  */
 
 code,
@@ -247,7 +247,7 @@ small {
 
 /*
  * Prevents `sub` and `sup` affecting `line-height` in all browsers.
- * gist.github.com/413930
+ 
  */
 
 sub,
@@ -312,7 +312,7 @@ nav ol {
 /*
  * 1. Removes border when inside `a` element in IE6/7/8/9, FF3.
  * 2. Improves image quality when scaled in IE7.
- *    code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
+
  */
 
 img {
