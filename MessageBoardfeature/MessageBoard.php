@@ -1,8 +1,5 @@
 <!-- 
-Exercise from Ch. 6  all-in-one CRUD form for posting messages to the Message Board, which stores messages in a text file. *Must have MessageBoard folder to successfully submit form, which will hold the posted messages .txt file.
 
-Author: Lani Hurley
-Date: 12/16/2021
  
 -->
 <!DOCTYPE html>
