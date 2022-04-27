@@ -1,0 +1,2 @@
+1~insulin check~testing insulin level~insulin.png~2
+2~medical spray~a spray for muscles~med.jpg~1

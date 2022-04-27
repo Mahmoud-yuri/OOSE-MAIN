@@ -1,0 +1,143 @@
+.hr1{
+    height: 25px;
+    background-color:#001219 ;
+    width:1400px
+}
+.hr2{
+    height: 25px;
+    background-color:#001219 ;
+    width:1400px;
+    position:relative;  bottom:80px;
+    
+}
+
+h1{
+    color: rgb(255, 21, 0);
+    position:relative; bottom: 75px; left: 80px;
+    font-size: x-large;
+     font-family:script;
+}
+.h2f{
+    color: white;
+    font-family:arial;
+    text-align:left;
+}
+.h2b{
+    position:relative; bottom: 75px; left: 80px;
+    font-size: 40px;
+    
+}
+.we{
+    background-size: 150px;
+    
+    border: 2px solid;
+    width: 480px;
+    height: 240px;
+    background-color: #e63946;
+    position:relative; bottom: 75px; left: 80px;
+    font-size: 40px;
+    font-style: oblique;
+    color: azure;
+}
+footer{
+    background-color: #001219;
+}
+.logo{ 
+    width: 80px;
+    height:58px;
+}
+.org{ 
+   color:black
+}
+.logoname
+{
+    position:relative;  left: 90px;
+}
+
+.social
+{
+    width:15px;
+    height: 15px;
+    background-color: rgb(255, 255, 255);
+}
+ul{
+    list-style-type: none;
+}
+.wah li{
+    display:inline;
+    margin-left: 50px;
+    text-decoration: none;
+}
+.wah li a{
+    text-decoration: none;
+    color: black;
+}
+.nav1
+{
+    position:absolute;  right:150px; top: 42px;
+  
+}
+.nav2
+{
+    position:absolute;  right: 140px; top: 90px;
+    font-size: large;
+    
+    
+  
+}
+.circularimage {
+   
+    
+        float:left;
+        margin-left:170px;
+        margin-top: 20px;
+        width: 150px;
+        height: 150px;
+        border-radius: 50%; /* Modified*/
+        /*overflow:hidden;*/
+        background-color: rgb(255, 255, 255); 
+  }
+  .r{
+    position:relative;  left: 180px;
+    
+    font-weight: 900;
+  }
+  .s{
+    margin-left:280px;
+    position:relative;  right: 70px;
+    font-weight: 900;
+  }
+  .c{
+    margin-left:515px;
+    position:relative;  right: 90px;
+    font-weight: 900;
+  }
+  .o{
+    
+    position:relative;  left: 180px;
+    font-weight: 900;
+  }
+  .nonp{
+    width:1400px;
+    position:relative;  left: 50px;
+  }
+  .poor{
+      height:240px;
+      width:700px;
+      position:absolute;  bottom: 187px;right:100px;
+  }
+.act{
+    position:absolute;  bottom:50px; left:100px;
+    font-size: 40px;
+}
+
+.foot{
+    color:white;
+    width:1400px;
+    position:relative;  left: 50px;
+}
+.helpawy{
+    margin-left: 50px;
+}
+ 
+
